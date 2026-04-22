@@ -215,4 +215,4 @@ database/migrations/*_add_avatar*
 
 ## Author
 
-Your Name
+Sam Lloyd H. Chavezy
