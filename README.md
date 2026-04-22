@@ -29,7 +29,7 @@ d:/xampp/htdocs/expense-tracker/
 Or clone via Git:
 
 ```
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/sammy22-dot/expense-tracker
 ```
 
 ---
